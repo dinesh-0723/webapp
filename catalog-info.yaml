@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: webapp
+  description: Java web application
+spec:
+  type: service
+  lifecycle: development
+  owner: guests
